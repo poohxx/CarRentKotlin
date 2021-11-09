@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<group android:checkableBehavior="single">
+
+    <item android:title="@string/rent_car"
+        android:id="@+id/car"
+        android:icon="@drawable/ic_vehicle_import"/>
+    <item android:title="@string/transfer"
+        android:id="@+id/transfer"
+        android:icon="@drawable/ic_transfer_2_import"/>
+    <item android:title="@string/events"
+        android:id="@+id/events"
+        android:icon="@drawable/ic_events_3_import"/>
+    <item android:title="@string/gen_info"
+        android:id="@+id/genInfo"
+        android:icon="@drawable/ic_geninfo_import"/>
+    <item android:title="@string/contacts"
+        android:id="@+id/contacts"
+        android:icon="@drawable/ic_contacts_2_import"/>
+</group>
+</menu>
