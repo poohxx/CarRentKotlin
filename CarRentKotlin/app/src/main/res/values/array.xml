@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="vehicle">
+        <item>Car</item>
+        <item>Scooter</item>
+    </string-array>
+
+    <string-array name="vehicle_content">
+        <item>It’s a vehicle for every day, believe or not the number of cars in the world is over a billion!
+            We offer only the good car class options:
+            Mini Car – it’s a practical option for a mini family and for a couple of travelers (4-5 people)
+            Medium Car – it’s a great option for a group of travelers or a big family (7 people)
+            Maxi Car – it’s suitable for a big group of people (9 people)
+            If you have children you can rent a child seat produced by one of the best manufacturers.
+            In addition to the cars, we provide you with a handy modern smart phone of the 5th edition; it has the internet access and online navigation system. The smart phone has the Google account where you can find the marks indicating on the most popular sights and the upcoming events. Besides it helps you to pass by the traffic jams so you’re able to save your time.
+            The offer is a unique and certainly an interesting one!</item>
+        <item>Scooter is a universal vehicle which is getting more and more popular nowadays. It looks a bit like a motorcycle but it’s much easier and more comfortable as a bike while driving. The main advantage of this vehicle is the maneuverability. It’s not a problem for a scooter to get through an enormous traffic jam. It’s light, quick and easy to do tricks on. The fuel economy is the biggest advantage of a scooter. The fuel prices in Europe are the highest in the world so the economy is an important factor. Another good thing about a scooter is the excitement and positive emotions that you get while driving.</item>
+    </string-array>
+
+    <array name="vehicle_pic_array">
+        <item>@drawable/skoda</item>
+        <item>@drawable/scooter</item>
+    </array>
+
+
+    <string-array name="transfer">
+        <item>Transfer</item>
+    </string-array>
+
+    <string-array name="transfer_content">
+        <item>How to get from Budapest Airport to the city?
+It’s so simple only by using our service! We arrange transfer from Budapest Airport to the city, and also to out of Budapest.
+You can buy tickets online or book them and pay by cash personally, for the order online have special promotion, please contact for details
+If you order a round-trip ticket you will get 10% discount.
+If you need to get to any place out of Budapest or to get back, the rate is EUR 0.7/ 1 kilometer for 1-4 persons, EUR 1/1 kilometer for 5-8 persons</item>
+    </string-array>
+
+    <array name="transfer_pic_array">
+        <item>@drawable/transfer2</item>
+    </array>
+
+
+    <string-array name="events">
+        <item>Events</item>
+    </string-array>
+
+    <string-array name="events_content">
+<item>What is interesting in Budapest? Events and things to do in Budapest.
+IThe Cheapest Budapest Tours to Explore the City.
+    These questions are typical for all tourists who want to visit this beautiful city with a long history at the crossroads of diverse cultures.
+    The answers to this questions may be found in illustrated brochures available to tourists, in the Internet, booklets and so on.
+    Each European capital is not only rich in history and spiritual and cultural life, traditions and most interesting sights, but also in various protected nature areas.
+    We are pushing the envelope to provide a broader range of those events and many interesting places that you can visit.
+    From photos to videos to can´t-miss events, our website provides an overview of your future destination´s best attractions.</item>
+    </string-array>
+
+    <array name="events_pic_array">
+        <item>@drawable/events2</item>
+    </array>
+
+    <string-array name="geninfo">
+        <item>Airport_transfer_terms</item>
+        <item>Car_rental_terms</item>
+        <item>Scooter_rental_terms</item>
+    </string-array>
+
+    <string-array name="geninfo_content">
+         <item>
+   Booking a ticket is a guarantee of a meeting at the airport, a seat in the cabin, and is not included in the final ticket price.
+    Payment is made in Hungarian forints, you can also pay in euros at the rate of 310 forints for 1 euro
+    You can pay for travel on the spot using a bank card, while an additional bank commission of 3% of the cost is charged
+    Transport departs according to the schedule, a delay is possible, but no more than 15 minutes
+    Stop in Budapest - Airport, Bratislava - central bus station, Vienna - Simmering metro station, outlet center Parndorf - bus station
+    When ordering the "from and to" service - transfer from your address to the one you specified within the city. Before ordering this service, be sure to contact us using the contact form with the details of your order (First name, Last Name, route, date and time of the planned trip). The fee for the service is fixed and amounts to 3000 HUF (10 euros), when ordering the service in both directions 4500 HUF (15 euros).
+    Customers who have ordered the "from and to" service in the priority of delivery, except in cases where the main destination is closer. A prerequisite is information about contacts with the client (Viber, Skype, Facebook), we stay at the place at the appointed time and notify by contacts, we wait for 15 minutes. After that, we continue the route. At the same time, only 50% of the cost of the service and ticket are subject to refund.
+    The service is paid for each passenger, with a group of 5 seats or more, as well as subject to the same address of the group, then under these conditions, payment for the service is taken only for 5 seats.
+    Each passenger is provided with 1 free drink, access to a WIFI network in Hungary
+        </item>
+        <item>
+            ·General requirements to drive a car
+*The possession of driver’s license (“B” car group)
+*The driver must be aged over 20-year-old
+*The driver’s license should be held for at least one year.
+· Use of the car
+* The Car will be provided to you with a full fuel tank. Costs of fuel and for the refuelling service will be at your expense if the Vehicle is not returned with a full tank.
+*The limit for mileage is 200 km per day
+*There is a fee in case of over limit, 1 EUR for 10 over limited kilometers (car mini class), 2 EUR for over limited 10 kilometers (medium and maxi car class)
+*If you return the car dirty you should pay 10 EUR expense.
+* If the car so dirty that it doesn’t let to examine the vehicle then the examination will be done only after its washing.
+*If you return the car with its dirty cabin, you’ll be charged 10 EUR.
+*If you return the car with its unfilled fuel tank, you’ll be charged 1.5 EUR for 1 liters of needed fuel.
+*The landlord has the right to refuse to give a car rental without giving any explanation.
+· A gadget (a smart phone or a tablet computer) will be given to you together with a car and it has internet access limited by 100 mb per day. In case of over limit, the renter pays 1 EURO for 10 mb. In case of smart phone damage, there is a charge equals to the cost of the gadget. The calls are carried out according to the operator’s rates. The total amount for using communicative services is being charged from the deposit by the landlord after the end of renting.
+· Payment terms
+*The minimum renting period is 1 day (24 hours) from the moment of getting the agreement signed.
+*The deposit is paid before getting the car and it’s returned after the end of renting or after a few days in case of paying by credit card.
+Car insurance
+*All the cars are insured;
+*The renter remains liable in case of a force majeure (if one is guilty) and pays the expense from the deposit.
+*In case of the car damage, the renter must provide with all the necessary documents to prove a force majeure. In case of the lack of the necessary documents, the renter remains financially liable for the damage.
+· Territory of using the car
+*The car might be used all over the territory of Hungary. In case of having plans to visit other countries, inform us in advance.
+*All the cars have the paid-up vignettes for the ability to move on the highways of Hungary.
+Unlimited mileage:
+For mini class:
+-5 EURO per day, on the territory of Hungary
+-10 EURO per day, on the territory of the SCHENGEN AREA
+For medium/maxi class:
+-10 EURO per day, on the territory of Hungary
+-20 EURO per day, on the territory of the SCHENGEN AREA
+        </item>
+        <item>The driver must be aged over 18-year-old
+The possession of valid driver’s license (any car group) and having the valid passport
+Sign the rental agreement
+Pay the rental
+Leave EUR 300 or ID card as a deposit.
+Payment is carried out by HUF (Hungarian Forints) or you can pay by EURO as well (EUR 1=310 HUF).
+You can also pay by credit card (there is a 3% bank charge)
+According to the Hungarian law, it’s forbidden to carry a passenger without having “A” car group license, only the renter can drive the scooter.
+You’ll be provided with a helmet and an anti –theft chain (despite having the anti-theft chain you should leave the scooter only on the guarded parking area or better leave it in a garage).
+You are liable to return the scooter in the same condition as it was provided at the start of renting. In case of a breakdown you remain liable to get the scooter back to the rental area by your own.
+In case of any damages, the repair costs will be taken from the deposit, in case if the damages exceed the deposit you should pay the repair according to the market values.
+In case of returning the scooter unclean, the scooter washing costs will be taken from the deposit.
+You’ll be provided with a smartphone navigator only if you are renting the scooter for a day or more. The limit of internet traffic is 10mb per day, in case of over limit you will be charged a fee - EUR 1/10 mb.
+Others services will be charged according to the internet operator’s rates when you return the scooter back.
+In case of renting the scooter for more than for 3 days or renting more than 1 scooter, there is a discount that will be given to you. Please, contact us to get the discount and more details.</item>
+
+    </string-array>
+
+    <array name="geninfo_pic_array">
+        <item>@drawable/geninfo</item>
+        <item>@drawable/geninfo</item>
+        <item>@drawable/geninfo</item>
+    </array>
+
+
+    <string-array name="contacts">
+        <item>Our_contacts</item>
+    </string-array>
+
+    <string-array name="contacts_content">
+        <item>  If you have any questions/orders, please fill the form
+                First smart trip KFT
+                e-mail : smarttrip4me@gmail.com
+                phone/viber : +3630 290 40 87
+        </item>
+    </string-array>
+
+    <array name="contacts_pic_array">
+        <item>@drawable/contacts2</item>
+    </array>
+
+</resources>
